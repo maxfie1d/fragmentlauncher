@@ -15,6 +15,7 @@ buildscript {
 }
 
 allprojects {
+    group 'com.maxfie1d'
     repositories {
         google()
         jcenter()
